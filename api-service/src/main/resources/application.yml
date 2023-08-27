@@ -4,5 +4,3 @@ spring:
     url: ${secrets.DATABASE_URL}
     username: ${secrets.USERNAME}
     password: ${secrets.PASSWORD}
-    #username: root
-    #password: rootroot
